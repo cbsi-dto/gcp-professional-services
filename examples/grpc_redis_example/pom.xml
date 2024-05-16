@@ -91,7 +91,7 @@
 
   <properties>
     <encoding>UTF-8</encoding>
-    <io.grpc.version>1.45.0</io.grpc.version>
+    <io.grpc.version>1.63.0</io.grpc.version>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
