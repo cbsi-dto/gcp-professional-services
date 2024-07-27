@@ -49,8 +49,8 @@
     <commons-io.version>2.4</commons-io.version>
     <excluded.spanner.tests>com.google.cloud.teleport.spanner.IntegrationTest</excluded.spanner.tests>
     <truth.version>1.0.1</truth.version>
-    <dlp.version>2.1.0</dlp.version>
-    <kms.version>1.40.0</kms.version>
+    <dlp.version>2.2.8</dlp.version>
+    <kms.version>1.40.8</kms.version>
     <proto-kms.version>0.87.0</proto-kms.version>
     <spotless-maven-plugin.version>2.12.1</spotless-maven-plugin.version>
   </properties>
@@ -219,8 +219,7 @@
                   </filter>
                 </filters>
                 <transformers>
-                  <transformer
-                      implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer"/>
+                  <transformer implementation="org.apache.maven.plugins.shade.resource.ServicesResourceTransformer"/>
                 </transformers>
               </configuration>
             </execution>
