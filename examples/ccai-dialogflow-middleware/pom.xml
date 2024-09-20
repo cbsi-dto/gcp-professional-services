@@ -85,7 +85,7 @@
     <dependency>
       <artifactId>google-auth-library-oauth2-http</artifactId>
       <groupId>com.google.auth</groupId>
-      <version>1.12.1</version>
+      <version>1.26.0</version>
     </dependency>
     <dependency>
       <artifactId>google-cloud-dialogflow</artifactId>
@@ -115,7 +115,7 @@
     <dependency>
       <artifactId>protobuf-java</artifactId>
       <groupId>com.google.protobuf</groupId>
-      <version>3.21.12</version>
+      <version>3.25.5</version>
     </dependency>
   </dependencies>
   <description>springboot</description>
