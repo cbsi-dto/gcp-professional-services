@@ -80,7 +80,7 @@
     <dependency>
       <artifactId>google-cloud-dialogflow-cx</artifactId>
       <groupId>com.google.cloud</groupId>
-      <version>0.17.0</version>
+      <version>0.90.0</version>
     </dependency>
     <dependency>
       <artifactId>google-auth-library-oauth2-http</artifactId>
@@ -90,7 +90,7 @@
     <dependency>
       <artifactId>google-cloud-dialogflow</artifactId>
       <groupId>com.google.cloud</groupId>
-      <version>4.8.2</version>
+      <version>4.85.0</version>
     </dependency>
     <dependency>
       <artifactId>annotations</artifactId>
