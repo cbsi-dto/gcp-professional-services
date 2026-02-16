@@ -26,7 +26,7 @@
     "@types/google.accounts": "^0.0.7",
     "@types/google.visualization": "^0.0.41",
     "@types/gsi": "^0.0.0",
-    "ajv": "^6.10.2",
+    "ajv": "^8.18.0",
     "angular-google-chart": "^1.0.0-beta.1",
     "angular-local-storage": "^0.7.1",
     "angular-oauth2-oidc": "^15.0.1",
