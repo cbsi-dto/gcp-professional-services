@@ -101,7 +101,7 @@
     <dependency>
       <artifactId>twilio</artifactId>
       <groupId>com.twilio.sdk</groupId>
-      <version>9.2.2</version>
+      <version>11.3.5</version>
     </dependency>
     <dependency>
       <artifactId>gson</artifactId>
