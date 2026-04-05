@@ -51,7 +51,7 @@ limitations under the License.
 <dependency>
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-resourcemanager</artifactId>
-  <version>1.2.3</version>
+  <version>1.5.4</version>
 </dependency>
 
 <dependency>
